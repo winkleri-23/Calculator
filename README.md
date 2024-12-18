@@ -44,7 +44,7 @@ Funkce `kalkulacka()` organizuje celý program do přehledného bloku, který lz
 3. Otevři terminál a přejdi do složky, kde máš uložený soubor.  
 4. Spusť příkaz:  
 ```bash
-python kalkulacka.py
+python Calculator.py
 ```
 
 ---
